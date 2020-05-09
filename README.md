@@ -11,7 +11,7 @@ Adapted from a snippet I found online (cannot find original source). Prefix a vi
 Use your plugin manager of choice, e.g. [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'https://github.com/at-cf/vim-redir-output.git'
+Plug 'at-cf/vim-redir-output'
 ```
 
 ## Use
